@@ -1,0 +1,27 @@
+.card-image-one{
+    width: 100%;
+    height: 300px;
+    background: url('./boxed-water-is-better-1464047-unsplash.jpg');
+    background-size: cover;
+}
+
+.card-image-two{
+    width: 100%;
+    height: 300px;
+    background: url('./ravi-sharma-490060-unsplash.jpg');
+    background-size: cover;
+}
+
+.card-image-three{
+    width: 100%;
+    height: 300px;
+    background: url('./filip-mroz-767365-unsplash.jpg');
+    background-size: cover;
+}
+
+.card-image-four{
+    width: 100%;
+    height: 300px;
+    background: url('./javardh-740705-unsplash.jpg');
+    background-size: cover;
+}
